@@ -5,3 +5,8 @@ I followed the Apna College videos to learn [html](https://youtu.be/HcOc7P5BMi4?
 
 # Project Description
 This project incorrectly uses some of the semantic html tags(I believe it has been done this way to keep it simple). 
+
+# Images
+![hero_section](screenshots/hero_section.png)
+![main_content](screenshots/content.png)
+![footer](screenshots/footer.png)
